@@ -1,4 +1,4 @@
-VPN Monitor - developed by Martin Larsen
+VPN Monitor - developed by Martin Larsen (github.com/Kerbz-dev)
 
 ----------- Installation ----------
 
