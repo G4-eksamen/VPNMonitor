@@ -1,4 +1,4 @@
-VPN Monitor - developed by devon
+VPN Monitor - developed by Martin
 
 //Big thanks to oreo for his great help and getting me started on the project :)
 
