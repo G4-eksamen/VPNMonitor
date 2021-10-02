@@ -1,4 +1,5 @@
 VPN Monitor - developed by devon (https://www.github.com/Kerbz-dev)
+See https://github.com/MBII/VPNMonitor for a MBII version of this program, configured by Spaghetti
 
 ----------- Installation ----------
 
